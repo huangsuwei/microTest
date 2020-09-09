@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/golang/protobuf/proto"
-	"microProtoTest1/prototext"
+	"microTest/prototext"
 )
 
 func main1() {
